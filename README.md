@@ -147,8 +147,8 @@ Task:
 
 ```
 
-[Charles_HW_1.chls](https://github.com/KlimentsiLiakhavets/ADB/blob/main/ADB%20HW.txt)
+[Charles_HW_1.chls](https://github.com/KlimentsiLiakhavets/Charles/blob/main/Charles_HW_1.chls)
 
-[Rewrite_settings.xml](https://github.com/KlimentsiLiakhavets/ADB/blob/main/ADB%20HW.txt)
+[Rewrite_settings.xml](https://github.com/KlimentsiLiakhavets/Charles/blob/main/Rewrite_settings.xml)
 
-[Breakpoints_settings.xml](https://github.com/KlimentsiLiakhavets/ADB/blob/main/ADB%20HW.txt)
+[Breakpoints_settings.xml](https://github.com/KlimentsiLiakhavets/Charles/blob/main/Breakpoints_settings.xml)
